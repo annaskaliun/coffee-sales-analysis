@@ -3,6 +3,11 @@
 End-to-end sales analysis for a multi-market coffee retailer.
 Tools: Tableau, Excel
 
+## Dashboards
+
+[View interactive dashboards on Tableau Public]
+https://public.tableau.com/app/profile/hanna.skaliun/viz/CoffeeSalesAnalysis2019-2022/FromDatatoDecisionCoffeeRetailPerformance?publish=yes
+
 ## Business Problem
 
 A coffee retailer sells coffee in 3 countries: USA, Ireland, and UK.
