@@ -4,6 +4,8 @@ End-to-end sales analysis for a multi-market coffee retailer.
 Tools: Tableau, Excel
 
 ## Dashboards
+![Dashboard Preview](tableau/1.png) 
+(tableau/2.png)
 
 [View interactive dashboards on Tableau Public]
 https://public.tableau.com/app/profile/hanna.skaliun/viz/CoffeeSalesAnalysis2019-2022/FromDatatoDecisionCoffeeRetailPerformance?publish=yes
