@@ -8,7 +8,7 @@ Tools: Tableau, Excel
 ![Dashboard Preview](tableau/2.png)
 
 [View interactive dashboards on Tableau Public]
-https://public.tableau.com/app/profile/hanna.skaliun/viz/CoffeeSalesAnalysis2019-2022/FromDatatoDecisionCoffeeRetailPerformance?publish=yes
+(https://public.tableau.com/app/profile/hanna.skaliun/viz/CoffeeSalesAnalysis2019-2022/FromDatatoDecisionCoffeeRetailPerformance?publish=yes)
 
 ## Business Problem
 
@@ -45,5 +45,4 @@ Average revenue per customer has been dropping every year since 2019.
 ## Project Structure
 
 - data/raw -- original dataset
-- insights -- business report
 - tableau -- dashboard screenshots
